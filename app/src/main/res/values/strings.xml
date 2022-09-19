@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QA-Airport</string>
+    <string name="start_button_text">Start</string>
+    <string name="welcome_text_res">Добро пожаловать!</string>
+    <string name="start_page">Начальная страница</string>
+</resources>
